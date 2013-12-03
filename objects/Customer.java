@@ -1,3 +1,10 @@
 /*
- *	Test for now https://github.com/aflet54/2509ICTA2.git
+ *	Handles the customer Data.
  */
+ 
+ package 2509ICTA2.objects;
+ 
+ public class Customer{
+ 
+ }
+ 
