@@ -34,7 +34,7 @@
 	</target>
 	
 	<target name="run" depends="dist" description="generate the test" >
-		<java jar="${dist}/lib/Roster-${DSTAMP}.jar" fork="true"/>
+		<java jar="${dist}/lib/2509ICTA2-${DSTAMP}.jar" fork="true"/>
 	</target>
   
 
